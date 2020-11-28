@@ -1,1 +1,1 @@
-Creacion de Proyecto Git
+Este es un readme del proyecto
