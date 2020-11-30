@@ -18,3 +18,22 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#cabecera
+{
+    
+    font-weight: bold;
+    background: #4900ff;
+    color: white;
+    box-shadow: 1px 5px 30px 1px rgba(0,0,0,0.5em);
+    margin: 0;
+    padding: 0.5em;
+
+}
+
+#cabecera #tagline
+{
+    padding: 0,0,0,1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
